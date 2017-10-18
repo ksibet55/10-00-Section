@@ -1,0 +1,13 @@
+---
+title: "10:00 Section"
+output: html_document
+---
+###Kayla Sibeto
+###October 15,2017
+Here is some arithmetic:
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
